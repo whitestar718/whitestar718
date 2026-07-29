@@ -11,12 +11,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d24,50:3DDC84,100:00c853&height=200&section=header&text=EUN%20HAECHAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=All-round%20AI%20Vision%20Engineer&descSize=18&descAlignY=58" alt="header"/>
 
-<!-- ============ 타이핑 애니메이션 ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=560&lines=데이터로+문제를+진단하는+AI+비전+엔지니어;현장의+문제를+해결하는+AI+파이프라인+디자인;데이터의+중요성을+아는+AI+개발자;ASPICE+4.0+표준+프로세스+기반의+개발" alt="typing"/>
-</a>
+<!-- ============ 태그라인 (정적 · 안정) ============ -->
+### 데이터의 중요성을 아는 AI 비전 엔지니어
 
-<br/><br/>
+**현장의 문제를 해결하는 AI 파이프라인 디자인**&nbsp;&nbsp;·&nbsp;&nbsp;**ASPICE 4.0 표준 프로세스 기반 개발**
+
+<br/>
 
 <!-- ============ 상단 뱃지 (연락처 / 방문자) ============ -->
 <img src="https://komarev.com/ghpvc/?username=whitestar718&style=flat-square&color=3DDC84&label=Profile+Views" alt="views"/>
