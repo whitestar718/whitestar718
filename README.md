@@ -56,10 +56,17 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Tools**
+**Quality / Verification**
 
-![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![SureSoft STATIC](https://img.shields.io/badge/SureSoft%20STATIC-00A98F?style=for-the-badge&logoColor=white)
+![SureSoft CT 2024](https://img.shields.io/badge/SureSoft%20CT%202024-00897B?style=for-the-badge&logoColor=white)
+
+**Collaboration & Tools**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
 <br/>
 
@@ -77,17 +84,14 @@
 
 <br/>
 
-<!-- ============ GitHub 통계 (동적) ============ -->
-## 📊 GitHub Stats
+<!-- ============ GitHub (동적 배지) ============ -->
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=whitestar718&show_icons=true&hide_border=true&title_color=3DDC84&icon_color=00c853&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitestar718&layout=compact&hide_border=true&title_color=3DDC84&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=whitestar718&hide_border=true&ring=3DDC84&fire=00c853&currStreakLabel=3DDC84&background=0d1117&stroke=c9d1d9&dates=8b949e" alt="streak"/>
+![Followers](https://img.shields.io/github/followers/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3DDC84)
+![Stars](https://img.shields.io/github/stars/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=00c853)
+![Profile Views](https://komarev.com/ghpvc/?username=whitestar718&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS)
 
 </div>
 
