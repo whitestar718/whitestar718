@@ -9,7 +9,7 @@
 <!-- ============ 상단 배너 (그라데이션 헤더) ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d24,50:3DDC84,100:00c853&height=200&section=header&text=EUN%20HAECHAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=All-round%20AI%20Vision%20Engineer&descSize=18&descAlignY=58" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A21,50:344E41,100:588157&height=200&section=header&text=EUN%20HAECHAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=All-round%20AI%20Vision%20Engineer&descSize=18&descAlignY=58" alt="header"/>
 
 <!-- ============ 태그라인 (정적 · 안정) ============ -->
 ### 데이터의 중요성을 아는 AI 비전 엔지니어
@@ -19,9 +19,9 @@
 <br/>
 
 <!-- ============ 상단 뱃지 (연락처 / 방문자) ============ -->
-<img src="https://komarev.com/ghpvc/?username=whitestar718&style=flat-square&color=3DDC84&label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=whitestar718&style=flat-square&color=344E41&label=Profile+Views" alt="views"/>
 &nbsp;
-<a href="mailto:whitestar718@naver.com"><img src="https://img.shields.io/badge/Email-whitestar718@naver.com-3DDC84?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:whitestar718@naver.com"><img src="https://img.shields.io/badge/Email-whitestar718@naver.com-344E41?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
 
@@ -58,8 +58,8 @@
 
 **Quality / Verification**
 
-![SureSoft STATIC](https://img.shields.io/badge/SureSoft%20STATIC-00A98F?style=for-the-badge&logoColor=white)
-![SureSoft CT 2024](https://img.shields.io/badge/SureSoft%20CT%202024-00897B?style=for-the-badge&logoColor=white)
+![SureSoft STATIC](https://img.shields.io/badge/SureSoft%20STATIC-344E41?style=for-the-badge&logoColor=white)
+![SureSoft CT 2024](https://img.shields.io/badge/SureSoft%20CT%202024-3A5A40?style=for-the-badge&logoColor=white)
 
 **Collaboration & Tools**
 
@@ -89,9 +89,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=3DDC84)
-![Stars](https://img.shields.io/github/stars/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=00c853)
-![Profile Views](https://komarev.com/ghpvc/?username=whitestar718&style=for-the-badge&color=3DDC84&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=344E41)
+![Stars](https://img.shields.io/github/stars/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=3A5A40)
+![Profile Views](https://komarev.com/ghpvc/?username=whitestar718&style=for-the-badge&color=344E41&label=PROFILE+VIEWS)
 
 </div>
 
@@ -100,6 +100,6 @@
 <!-- ============ 하단 ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c853,50:3DDC84,100:0b3d24&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:588157,50:344E41,100:1B2A21&height=100&section=footer" alt="footer"/>
 
 </div>
