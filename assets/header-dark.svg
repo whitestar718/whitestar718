@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t">
+  <title id="t">EUN HAECHAN — All-round AI Vision Engineer</title>
+
+  <!-- ============ 바탕 (GitHub 다크) ============ -->
+  <rect width="1200" height="340" fill="#0D1117"/>
+
+  <!-- ============ 편집 그리드 (그레이스케일 지면) ============ -->
+  <g>
+    <!-- A · 표지 -->
+    <rect x="44" y="40" width="176" height="110" fill="#C9D1D9"/>
+
+    <!-- B · 본문 지면 -->
+    <rect x="236" y="40" width="232" height="110" fill="#1C2128"/>
+    <g fill="#333B45">
+      <rect x="252" y="58"  width="200" height="3"/>
+      <rect x="252" y="70"  width="200" height="3"/>
+      <rect x="252" y="82"  width="200" height="3"/>
+      <rect x="252" y="94"  width="164" height="3"/>
+      <rect x="252" y="106" width="188" height="3"/>
+    </g>
+
+    <!-- C · 중간톤 -->
+    <rect x="484" y="40" width="132" height="110" fill="#565E68"/>
+
+    <!-- D · 본문 지면 -->
+    <rect x="632" y="40" width="208" height="110" fill="#1C2128"/>
+    <g fill="#333B45">
+      <rect x="648" y="58"  width="176" height="3"/>
+      <rect x="648" y="70"  width="176" height="3"/>
+      <rect x="648" y="82"  width="140" height="3"/>
+      <rect x="648" y="94"  width="176" height="3"/>
+      <rect x="648" y="106" width="112" height="3"/>
+    </g>
+  </g>
+
+  <!-- ============ 솔리드 그린 블록 ============ -->
+  <rect x="856" y="40" width="300" height="210" fill="#30A787"/>
+
+  <!-- ============ 반투명 그린 밴드 (겹침 = 포인트박스) ============ -->
+  <rect x="44" y="118" width="956" height="118" fill="#30A787" opacity="0.9"/>
+  <!-- 겹침부를 한 단 깊게 -->
+  <rect x="856" y="118" width="144" height="118" fill="#1D6350" opacity="0.55"/>
+
+  <!-- ============ 이름 ============ -->
+  <text x="84" y="198"
+        font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="60" font-weight="700" fill="#FFFFFF"
+        letter-spacing="2" textLength="470" lengthAdjust="spacingAndGlyphs">EUN HAECHAN</text>
+
+  <!-- ============ 하단 · 룰 + 직무 ============ -->
+  <rect x="84" y="268" width="56" height="3" fill="#30A787"/>
+  <text x="84" y="302"
+        font-family="'Helvetica Neue',Helvetica,Arial,sans-serif"
+        font-size="17" font-weight="600" fill="#8B949E"
+        letter-spacing="4.5">ALL-ROUND AI VISION ENGINEER</text>
+</svg>

@@ -1,17 +1,22 @@
 <!--
   ┌─────────────────────────────────────────────────────────────┐
-  │  GitHub 프로필 대문 샘플                                       │
-  │  이 파일 내용을  whitestar718/whitestar718  저장소의           │
-  │  README.md 로 넣으면 프로필 상단에 그대로 표시됩니다.          │
+  │  GitHub 프로필 대문                                            │
+  │  배포처: whitestar718/whitestar718 저장소의 README.md          │
+  │  원본:   whitestar718/260710_Claude26 · PROFILE_README_sample.md │
+  │                                                               │
+  │  수정할 때는 원본을 고치고 배포처로 복사한다.                    │
+  │  헤더가 assets/header-*.svg 를 상대경로로 참조하므로            │
+  │  README.md 만 옮기면 헤더가 깨진다. assets/ 를 반드시 동반할 것. │
   └─────────────────────────────────────────────────────────────┘
 -->
 
-<!-- ============ 상단 배너 (그라데이션 헤더) ============ -->
+<!-- ============ 헤더 (자체 제작 SVG · 외부 서비스 없음) ============ -->
+<!-- 벡터라 어떤 해상도에서도 깨지지 않는다. 색을 바꾸려면 SVG 안의 #30A787을 교체. -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A21,50:344E41,100:588157&height=200&section=header&text=EUN%20HAECHAN&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=All-round%20AI%20Vision%20Engineer&descSize=18&descAlignY=58" alt="header"/>
+<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="EUN HAECHAN — All-round AI Vision Engineer"/>
+<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="EUN HAECHAN — All-round AI Vision Engineer"/>
 
-<!-- ============ 태그라인 (정적 · 안정) ============ -->
 ### 데이터의 중요성을 아는 AI 비전 엔지니어
 
 **현장의 문제를 해결하는 AI 파이프라인 디자인**&nbsp;&nbsp;·&nbsp;&nbsp;**ASPICE 4.0 표준 프로세스 기반 개발**
@@ -19,9 +24,9 @@
 <br/>
 
 <!-- ============ 상단 뱃지 (연락처 / 방문자) ============ -->
-<img src="https://komarev.com/ghpvc/?username=whitestar718&style=flat-square&color=344E41&label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=whitestar718&style=flat-square&color=30A787&label=Profile+Views" alt="views"/>
 &nbsp;
-<a href="mailto:whitestar718@naver.com"><img src="https://img.shields.io/badge/Email-whitestar718@naver.com-344E41?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:whitestar718@naver.com"><img src="https://img.shields.io/badge/Email-whitestar718@naver.com-30A787?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
 
 </div>
 
@@ -58,8 +63,8 @@
 
 **Quality / Verification**
 
-![SureSoft STATIC](https://img.shields.io/badge/SureSoft%20STATIC-344E41?style=for-the-badge&logoColor=white)
-![SureSoft CT 2024](https://img.shields.io/badge/SureSoft%20CT%202024-3A5A40?style=for-the-badge&logoColor=white)
+![SureSoft STATIC](https://img.shields.io/badge/SureSoft%20STATIC-1D6350?style=for-the-badge&logoColor=white)
+![SureSoft CT 2024](https://img.shields.io/badge/SureSoft%20CT%202024-1D6350?style=for-the-badge&logoColor=white)
 
 **Collaboration & Tools**
 
@@ -89,9 +94,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=344E41)
-![Stars](https://img.shields.io/github/stars/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=3A5A40)
-![Profile Views](https://komarev.com/ghpvc/?username=whitestar718&style=for-the-badge&color=344E41&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=30A787&labelColor=1D6350)
+![Stars](https://img.shields.io/github/stars/whitestar718?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=30A787&labelColor=1D6350)
+![Profile Views](https://komarev.com/ghpvc/?username=whitestar718&style=for-the-badge&color=30A787&label=PROFILE+VIEWS)
 
 </div>
 
@@ -100,6 +105,6 @@
 <!-- ============ 하단 ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:588157,50:344E41,100:1B2A21&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30A787,50:1D6350,100:123F33&height=100&section=footer" alt="footer"/>
 
 </div>
