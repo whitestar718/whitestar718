@@ -10,12 +10,11 @@
   └─────────────────────────────────────────────────────────────┘
 -->
 
-<!-- ============ 헤더 (자체 제작 SVG · 외부 서비스 없음) ============ -->
-<!-- 벡터라 어떤 해상도에서도 깨지지 않는다. 색을 바꾸려면 SVG 안의 #30A787을 교체. -->
+<!-- ============ 헤더 (자체 제작 PNG 배너 · 외부 서비스 없음) ============ -->
+<!-- 자체 배경이 있어 라이트/다크 모드 공통으로 쓴다. 교체 시 assets/header.png 를 덮어쓴다. -->
 <div align="center">
 
-<img src="assets/header-light.svg#gh-light-mode-only" width="100%" alt="EUN HAECHAN — All-round AI Vision Engineer"/>
-<img src="assets/header-dark.svg#gh-dark-mode-only" width="100%" alt="EUN HAECHAN — All-round AI Vision Engineer"/>
+<img src="assets/header.png" width="100%" alt="EUN HAECHAN — All-rounder AI Developer"/>
 
 ### 데이터의 중요성을 아는 AI 비전 엔지니어
 
